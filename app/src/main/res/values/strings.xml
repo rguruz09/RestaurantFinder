@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestaurantFinder</string>
+    <string name="fetching_data">Getting Restaurant details for you.. just a moment.. </string>
+</resources>
